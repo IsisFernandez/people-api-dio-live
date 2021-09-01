@@ -1,5 +1,14 @@
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
+Este projeto foi desenvolvido com a tutoria do professor Rodrigo Peleias , como parte do curso "Santander Bootcamp | Fullstack Developer" da Digital Innovation One.
+
+This project was developed with the tutoring of Professor Rodrigo Peleias , as part of Digital Innovation One's "Santander Bootcamp | Fullstack Developer" course.
+
+Eu tentei criar uma nova clase e adicionar dados sobre o endereço dos usuários, mas enfrentei alguns bugs. No final, incorporei esses dados a classe Person. 
+===========================================================================================
+
+
+
 Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
