@@ -4,7 +4,11 @@ Este projeto foi desenvolvido com a tutoria do professor Rodrigo Peleias , como 
 
 This project was developed with the tutoring of Professor Rodrigo Peleias , as part of Digital Innovation One's "Santander Bootcamp | Fullstack Developer" course.
 
-Eu tentei criar uma nova clase e adicionar dados sobre o endereço dos usuários, mas enfrentei alguns bugs. No final, incorporei esses dados a classe Person. 
+Eu tentei criar uma classe chamada "Address", semelhante à classe "Phone" e adicionar dados sobre o endereço dos usuários, mas enfrentei alguns bugs que não consegui resolver. No final, incorporei esses dados a classe Person. 
+
+
+
+Para o futuro, planejo conseguir criar a classe "Address" e adicionar novas funcionalidades. 
 ===========================================================================================
 
 
